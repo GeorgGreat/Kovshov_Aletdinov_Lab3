@@ -1,0 +1,9 @@
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\bin\Debug\Aletdinov_task3.exe.config
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\bin\Debug\Aletdinov_task3.exe
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\bin\Debug\Aletdinov_task3.pdb
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\obj\Debug\Aletdinov_task3.Form1.resources
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\obj\Debug\Aletdinov_task3.Properties.Resources.resources
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\obj\Debug\Aletdinov_task3.csproj.GenerateResource.Cache
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\obj\Debug\Aletdinov_task3.exe
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\obj\Debug\Aletdinov_task3.pdb
+c:\users\f13\documents\visual studio 2013\Projects\Aletdinov_task3\Aletdinov_task3\obj\Debug\Aletdinov_task3.csprojResolveAssemblyReference.cache
