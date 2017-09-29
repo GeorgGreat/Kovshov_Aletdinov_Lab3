@@ -1,0 +1,83 @@
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\bin\Debug\CGLab3.exe.config
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\bin\Debug\CGLab3.exe
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\bin\Debug\CGLab3.pdb
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\bin\Debug\CGLab1.exe
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\bin\Debug\CGLab1.pdb
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\obj\Debug\CGLab3.BorderSelection.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\obj\Debug\CGLab3.exe
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\obj\Debug\CGLab3.pdb
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\bin\Debug\CGLab2.exe
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab3\bin\Debug\CGLab2.pdb
+C:\Users\student\Desktop\CGLab1\CGLab3\bin\Debug\CGLab3.exe.config
+C:\Users\student\Desktop\CGLab1\CGLab3\obj\Debug\CGLab3.exe
+C:\Users\student\Desktop\CGLab1\CGLab3\obj\Debug\CGLab3.pdb
+C:\Users\student\Desktop\CGLab1\CGLab3\bin\Debug\CGLab3.exe
+C:\Users\student\Desktop\CGLab1\CGLab3\bin\Debug\CGLab3.pdb
+C:\Users\student\Desktop\CGLab1\CGLab3\bin\Debug\CGLab1.exe
+C:\Users\student\Desktop\CGLab1\CGLab3\bin\Debug\CGLab2.exe
+C:\Users\student\Desktop\CGLab1\CGLab3\bin\Debug\CGLab1.pdb
+C:\Users\student\Desktop\CGLab1\CGLab3\bin\Debug\CGLab2.pdb
+C:\Users\student\Desktop\CGLab1\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CGLab1\CGLab3\obj\Debug\CGLab3.BorderSelection.resources
+C:\Users\student\Desktop\CGLab1\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+C:\Users\student\Desktop\CGLab1\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\bin\Debug\CGLab3.exe.config
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\obj\Debug\CGLab3.exe
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\obj\Debug\CGLab3.pdb
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\bin\Debug\CGLab3.exe
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\bin\Debug\CGLab3.pdb
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\bin\Debug\CGLab1.exe
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\bin\Debug\CGLab2.exe
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\bin\Debug\CGLab1.pdb
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\bin\Debug\CGLab2.pdb
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\obj\Debug\CGLab3.BorderSelection.resources
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Новая папка\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab3.exe.config
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab3.exe
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab3.pdb
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab1.exe
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab2.exe
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab1.pdb
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab1.exe.config
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab2.pdb
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\bin\Debug\CGLab2.exe.config
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\obj\Debug\CGLab3.BorderSelection.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\obj\Debug\CGLab3.csproj.CoreCompileInputs.cache
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\obj\Debug\CGLab3.exe
+D:\Graphics\ComputerGraphic\CGLab1\CGLab3\obj\Debug\CGLab3.pdb
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab3.exe.config
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab3.exe
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab3.pdb
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab1.exe
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab2.exe
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab1.pdb
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab1.exe.config
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab2.pdb
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\bin\Debug\CGLab2.exe.config
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\obj\Debug\CGLab3.BorderSelection.resources
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\obj\Debug\CGLab3.csproj.CoreCompileInputs.cache
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\obj\Debug\CGLab3.exe
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab3\obj\Debug\CGLab3.pdb
+E:\CGLab3\CGLab3\bin\Debug\CGLab3.exe.config
+E:\CGLab3\CGLab3\bin\Debug\CGLab3.exe
+E:\CGLab3\CGLab3\bin\Debug\CGLab3.pdb
+E:\CGLab3\CGLab3\bin\Debug\CGLab1.exe
+E:\CGLab3\CGLab3\bin\Debug\CGLab1.pdb
+E:\CGLab3\CGLab3\bin\Debug\CGLab1.exe.config
+E:\CGLab3\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+E:\CGLab3\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+E:\CGLab3\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+E:\CGLab3\CGLab3\obj\Debug\CGLab3.exe
+E:\CGLab3\CGLab3\obj\Debug\CGLab3.pdb
+E:\CGLab3\CGLab3\obj\Debug\CGLab3.LockBitmap.resources

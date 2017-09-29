@@ -1,0 +1,57 @@
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\bin\Debug\CGLab1.exe.config
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\bin\Debug\CGLab1.exe
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\bin\Debug\CGLab1.pdb
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.MainForm.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.Properties.Resources.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.Task1.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.Task2.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.Task3.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.Task4.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.Task5.resources
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.csproj.GenerateResource.Cache
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.exe
+G:\MyDocuments\Visual Studio 2015\Projects\CGLab1\CGLab1\obj\Debug\CGLab1.pdb
+C:\Users\student\Desktop\CGLab1\CGLab1\bin\Debug\CGLab1.exe.config
+C:\Users\student\Desktop\CGLab1\CGLab1\obj\Debug\CGLab1.exe
+C:\Users\student\Desktop\CGLab1\CGLab1\obj\Debug\CGLab1.pdb
+C:\Users\Alexander\Desktop\Новая папка\CGLab1\bin\Debug\CGLab1.exe.config
+C:\Users\Alexander\Desktop\Новая папка\CGLab1\obj\Debug\CGLab1.exe
+C:\Users\Alexander\Desktop\Новая папка\CGLab1\obj\Debug\CGLab1.pdb
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\bin\Debug\CGLab1.exe.config
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\bin\Debug\CGLab1.exe
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\bin\Debug\CGLab1.pdb
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.csprojResolveAssemblyReference.cache
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.MainForm.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.Properties.Resources.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.Task1.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.Task2.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.Task3.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.Task4.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.Task5.resources
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.csproj.GenerateResource.Cache
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.csproj.CoreCompileInputs.cache
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.exe
+D:\Graphics\ComputerGraphic\CGLab1\CGLab1\obj\Debug\CGLab1.pdb
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\bin\Debug\CGLab1.exe.config
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\bin\Debug\CGLab1.exe
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\bin\Debug\CGLab1.pdb
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.csprojResolveAssemblyReference.cache
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.MainForm.resources
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.Properties.Resources.resources
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.Task1.resources
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.Task2.resources
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.csproj.GenerateResource.Cache
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.csproj.CoreCompileInputs.cache
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.exe
+D:\Graphics\CompGraphic\lab3\New folder\CGLab1\CGLab1\obj\Debug\CGLab1.pdb
+E:\CGLab3\CGLab1\bin\Debug\CGLab1.exe.config
+E:\CGLab3\CGLab1\bin\Debug\CGLab1.exe
+E:\CGLab3\CGLab1\bin\Debug\CGLab1.pdb
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.csprojResolveAssemblyReference.cache
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.MainForm.resources
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.Properties.Resources.resources
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.Task1.resources
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.Task2.resources
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.csproj.GenerateResource.Cache
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.exe
+E:\CGLab3\CGLab1\obj\Debug\CGLab1.pdb
